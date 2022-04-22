@@ -1,12 +1,12 @@
 # jupyter
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sinbrive/jupyter/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-jupyter-space/jupyter/HEAD)
 
 
 https://mybinder.org/
 
 open a specific file
-https://mybinder.org/v2/gh/sinbrive/jupyter/HEAD?labpath=unit-test.ipynb
+https://mybinder.org/v2/gh/sinbrive/binder-jupyter-space/HEAD?labpath=unit-test.ipynb
 
 
 Tuto:
