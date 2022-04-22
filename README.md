@@ -1,4 +1,4 @@
-# jupyter
+# binder-jupyter-space
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-jupyter-space/jupyter/HEAD)
 
