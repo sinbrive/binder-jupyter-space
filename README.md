@@ -9,8 +9,9 @@ https://mybinder.org/v2/gh/sinbrive/binder-jupyter-space/HEAD?labpath=unit-test.
 
 ## Be careful
 - fore more packages : update requirements.txt
-- no commit to github
+- no commit back to github
 - if the tab of the browser is closed, all modifications are lost
+- still possible to save the modifications by downloading them
 
 ## Tuto:
 https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html
