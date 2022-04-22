@@ -7,8 +7,7 @@ button for this branch
 https://mybinder.org/
 
 open a specific file
-https://mybinder.org/v2/gh/sinbrive/binder-jupyter-space
-/HEAD?labpath=unit-test.ipynb
+https://mybinder.org/v2/gh/sinbrive/binder-jupyter-space/HEAD?labpath=unit-test.ipynb
 
 
 Tuto:
