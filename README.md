@@ -7,7 +7,7 @@ https://mybinder.org/
 #### open a specific file
 https://mybinder.org/v2/gh/sinbrive/binder-jupyter-space/HEAD?labpath=unit-test.ipynb
 
-## Be careful
+## Cautions
 - fore more packages : update requirements.txt
 - no commit back to github
 - if the tab of the browser is closed, all modifications are lost
