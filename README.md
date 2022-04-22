@@ -16,7 +16,7 @@ https://mybinder.org/v2/gh/sinbrive/binder-jupyter-space/HEAD?labpath=unit-test.
 ## Tuto:
 https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html
 
-## Github prof 
+## Ressource 1 
 - PythonLycee : https://github.com/PythonLycee/PyLyc
 - requirements.txt
 ```
